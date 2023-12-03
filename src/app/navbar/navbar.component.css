@@ -1,0 +1,16 @@
+
+.hero .nav-link{
+    font-size: 18px;
+    color: #C08261;
+}
+
+.hero button{
+    background-color: #C08261;
+    color: #fff;
+    box-shadow: 2px 2px 4px rgb(150, 149, 149);
+}
+
+.hero button:hover{
+    background-color: #ac7456;
+    box-shadow: 4px 4px 8px #C08261;
+}

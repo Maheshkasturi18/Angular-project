@@ -1,0 +1,20 @@
+.newsletter{
+    font-family: 'Pacifico', cursive;
+    background-color: bisque;
+}
+
+.newsletter h2{
+    color: #A82C48;
+}
+
+.newsletter button{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #C08261;
+    color: #fff;
+    box-shadow: 2px 2px 4px rgb(150, 149, 149);
+}
+
+.newsletter button:hover{
+    background-color: #ac7456;
+    box-shadow: 4px 4px 8px #C08261;
+}

@@ -1,0 +1,40 @@
+*{
+    font-family: 'Pacifico', cursive;
+}
+
+
+
+.photo-gallery-heading{
+    background-color: bisque;
+}
+
+.photo-gallery-heading i{
+    font-size: 40px;
+    color: #A82C48;
+}
+
+.photo-gallery-heading h2{
+    color: #A82C48;
+}
+
+.photo-gallery img:hover{
+    opacity: 0.5;
+    box-shadow: 4px 4px 8px grey;
+}
+
+
+
+.video-gallery-heading{
+    background-color: bisque;
+}
+
+.video-gallery-heading i{
+    font-size: 40px;
+    color: #A82C48;
+}
+
+.video-gallery-heading h2{
+    color: #A82C48;
+}
+
+
